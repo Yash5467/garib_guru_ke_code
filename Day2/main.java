@@ -40,7 +40,6 @@ public class Main
             
             if(Math.abs(arr[i]-arr[j])<=a && Math.abs(arr[j]-arr[k])<=b && Math.abs(arr[i]-arr[k])<=c)
             {
-                
                 count++;                
             }
         }
